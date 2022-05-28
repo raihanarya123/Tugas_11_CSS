@@ -1,0 +1,45 @@
+header {
+  background-color: rgb(48, 48, 48);
+  column-width: 60px;
+  height: 34px;
+  padding-top: 10px;
+}
+ul{
+  color: rgb(48, 48, 48);
+}
+a{
+  color: white;
+  font-size: 18px;
+  text-decoration: none;
+  float: left;
+  position: relative;
+  left: -175px;
+}
+li{
+  top: 50px
+}
+div{
+  width: 1900px;
+  height: 720px;
+  margin: 0 auto;
+  background-color: rgb(242, 241, 240);
+  padding-top: 10px;
+  padding-bottom: 10px;
+  box-shadow: 0px 5px 5px #dedcdc;
+}
+h1 {
+  column-span: all ;
+}
+p{
+  column-count: 4;
+  column-rule-style: solid;
+  column-rule-color: black;
+  text-align: justify;
+}
+footer{
+  background-color: black;
+  text-align: center;
+  color: white;
+  height: 40px;
+
+}
